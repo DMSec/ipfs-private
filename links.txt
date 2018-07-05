@@ -1,0 +1,23 @@
+#!/usr/bin/python3
+Entender o consensus - raft (Importante leitura)
+http://thesecretlivesofdata.com/raft/
+
+Configurando o ipfs cluster
+https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-1-a6ff15222b90
+https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae
+https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-3-48851488b8d8
+https://hackernoon.com/setting-up-a-2-node-private-storage-network-on-ipfs-in-1-min-part-4-93ea41d4c551
+ipfs-cluster v3.0
+https://github.com/sid226/ipfs-cluster
+
+https://discuss.ipfs.io/t/solved-need-help-to-setup-a-new-ipfs-cluster-with-2-peers/835/5
+
+https://devops.stackexchange.com/questions/2731/downloading-docker-images-from-docker-hub-without-using-docker
+
+https://www.tecmint.com/split-large-tar-into-multiple-files-of-certain-size/
+
+https://github.com/Kubuxu/go-ipfs-swarm-key-gen
+
+https://stackoverflow.com/questions/43316376/what-does-net-host-option-in-docker-command-really-do
+
+http://www.dasblinkenlichten.com/docker-networking-101-host-mode/
