@@ -21,3 +21,6 @@ https://github.com/Kubuxu/go-ipfs-swarm-key-gen
 https://stackoverflow.com/questions/43316376/what-does-net-host-option-in-docker-command-really-do
 
 http://www.dasblinkenlichten.com/docker-networking-101-host-mode/
+  
+  Mais importante de todos!
+  http://www.appsnsoft.com/2018/03/step-by-step-guide-to-deploy-private.html
